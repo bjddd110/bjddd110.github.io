@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[朗读者]]></title>
+        <description><![CDATA[收录央视《朗读者》精彩语句与经典文章]]></description>
+        <link>http://gitbook.bjddd912.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 30 Aug 2018 08:59:45 GMT</lastBuildDate>
+        <atom:link href="http://gitbook.bjddd192.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Mars丶小石头 <bjddd192@163.com>]]></author>
+        <managingEditor><![CDATA[bjddd192@163.com]]></managingEditor>
+        <webMaster><![CDATA[bjddd192@163.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[朗读者]]></title>
+            <link>http://gitbook.bjddd912.com/</link>
+            <guid isPermaLink="true">http://gitbook.bjddd912.com/</guid>
+            <dc:creator><![CDATA[Mars丶小石头 <bjddd192@163.com>]]></dc:creator>
+        </item>
+    </channel>
+</rss>
